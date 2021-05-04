@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+div{
+    margin-top: 15px;
+    
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: chartreuse;
+}
